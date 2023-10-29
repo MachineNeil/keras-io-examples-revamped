@@ -1,7 +1,7 @@
 """
 Created on: October 29, 2023.
-
-Based on [Mark Doust](https://github.com/MarkDaoust)'s [creation](https://github.com/keras-team/keras-io/blob/bdb1a19d989668fc4c0ca09c572d4c8f6fe5c6b6/examples/structured_data/imbalanced_classification.py).
+Made by: [MachineNeil](https://github.com/MachineNeil)
+Based on: [Mark Doust](https://github.com/MarkDaoust)'s [creation](https://github.com/keras-team/keras-io/blob/bdb1a19d989668fc4c0ca09c572d4c8f6fe5c6b6/examples/structured_data/imbalanced_classification.py).
 
 The [dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud/) belongs to Kaggle.
 
