@@ -259,7 +259,7 @@ plt.show()
 
 Considering a FN to be 100x more relevant than a FP, given 56,961 validation transactions:
 - 10 out of 98 fraudulent transactions are misclassified as legitimate (FN) - very dangerous.
-- 196 out of 56,863 valid transactions are misclassified as illegitimate (FP) - harmless, yet nagging.
+- 112 out of 56,863 valid transactions are misclassified as illegitimate (FP) - harmless, yet nagging.
 
 Raising the weight of FNs lowers their occurrence, but in turn FPs soar. This effect has been reduced compared to the original creator's version, although minimizing it has proved to be an insurmountable task.
 
